@@ -4,14 +4,14 @@
 ** Q-Learning: **
 
 <figure>
- <img src=".//Readme-img/.png" width="1072" alt="qEqu" />
+ <img src="./Readme-img/.png" width="1072" alt="qEqu" />
  <figcaption>
  <p></p> 
  </figcaption>
 </figure>
 
 <figure>
- <img src=".//Readme-img/.png" width="1072" alt="qEqu2" />
+ <img src="./Readme-img/.png" width="1072" alt="qEqu2" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -21,7 +21,7 @@ Q-Learning Algorithm :
 
 
 <figure>
- <img src=".//Readme-img/.png" width="1072" alt="alg" />
+ <img src="./Readme-img/.png" width="1072" alt="alg" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -31,7 +31,7 @@ Q-Learning Algorithm :
 Taxi Environment:
 
 <figure>
- <img src=".//Readme-img/.png" width="1072" alt="taxi-1" />
+ <img src="./Readme-img/.png" width="1072" alt="taxi-1" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -54,10 +54,12 @@ FrozenLake Environment:
 
 
 <figure>
- <img src=".//Readme-img/.png" width="1072" alt="frozenlake" />
+ <img src="./Readme-img/.png" width="1072" alt="frozenlake" />
  <figcaption>
  <p></p> 
  </figcaption>
 </figure>
+
+
 
 
