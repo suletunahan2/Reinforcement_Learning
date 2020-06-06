@@ -99,5 +99,20 @@ CartPole Environment:
 </figure>
 
 
+Agent Class:
+init() for decribe agent
+ann_model() for find a action (ann : Artificial Neural Network)
+remember() for replay memory (input parameters of remember() is s,a,s',r )
+act() output is action, input is state
+replay() for training 
+adaptiveE() for exploration & exploitation
+
+
+Environment Class:(Gym toolkit)
+reset() for initialize
+step() for action 
+
+
+
 
 
