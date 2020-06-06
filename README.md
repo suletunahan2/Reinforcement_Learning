@@ -4,14 +4,14 @@
 Q-Learning:
 
 <figure>
- <img src="./Readme-img/qEqu.png" width="1072" alt="qEqu" />
+ <img src="./Readme-img/qEqu.png" width="500" alt="qEqu" />
  <figcaption>
  <p></p> 
  </figcaption>
 </figure>
 
 <figure>
- <img src="./Readme-img/qEqu2.png" width="1072" alt="qEqu2" />
+ <img src="./Readme-img/qEqu2.png" width="500" alt="qEqu2" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -21,7 +21,7 @@ Q-Learning Algorithm :
 
 
 <figure>
- <img src="./Readme-img/alg.png" width="1072" alt="alg" />
+ <img src="./Readme-img/alg.png" width="500" alt="alg" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -31,7 +31,7 @@ Q-Learning Algorithm :
 Taxi Environment:
 
 <figure>
- <img src="./Readme-img/taxi-1.png" width="1072" alt="taxi-1" />
+ <img src="./Readme-img/taxi-1.png" width="500" alt="taxi-1" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -54,7 +54,7 @@ FrozenLake Environment:
 
 
 <figure>
- <img src="./Readme-img/frozenlake.png" width="1072" alt="frozenlake" />
+ <img src="./Readme-img/frozenlake.png" width="500" alt="frozenlake" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -64,7 +64,7 @@ FrozenLake Environment:
 Deep Q-Learning:
 
 <figure>
- <img src="./Readme-img/deepq.png" width="1072" alt="deepqlearning" />
+ <img src="./Readme-img/deepq.png" width="500" alt="deepqlearning" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -74,7 +74,7 @@ Deep Q-Learning:
 Deep Q-Learning Algorithm:
 
 <figure>
- <img src="./Readme-img/alg-dql.png" width="1072" alt="deepqlearning" />
+ <img src="./Readme-img/alg-dql.png" width="500" alt="deepqlearning" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -83,7 +83,7 @@ Deep Q-Learning Algorithm:
 Deep Q-Learning Pseudo Code:
 
 <figure>
- <img src="./Readme-img/deepqpseudocode.png" width="1072" alt="deepqlearning" />
+ <img src="./Readme-img/deepqpseudocode.png" width="500" alt="deepqlearning" />
  <figcaption>
  <p></p> 
  </figcaption>
@@ -92,7 +92,7 @@ Deep Q-Learning Pseudo Code:
 CartPole Environment:
 
 <figure>
- <img src="./Readme-img/cartpole.png" width="1072" alt="cartpole" />
+ <img src="./Readme-img/cart-pole.png" width="800" alt="cartpole" />
  <figcaption>
  <p></p> 
  </figcaption>
