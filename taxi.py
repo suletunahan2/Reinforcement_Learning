@@ -131,6 +131,13 @@ for i in range(1,episode_number):
             break
         
         reward_count += reward 
+        
+    if i%10 == 0:
+        droputs_list.append(dropouts)
+        reward_list.append(reward_count)
+        print("Episode: {}, reward {}, wrong dropout {}".format(i,reward_count,dropouts))
+        
+
 
 # %% visualize
 fig ,axs = plt.subplots(1,2)
