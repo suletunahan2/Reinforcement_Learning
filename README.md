@@ -1,7 +1,7 @@
 # Reinforcement_Learning
 
 
-** Q-Learning: **
+Q-Learning:
 
 <figure>
  <img src="./Readme-img/qEqu.png" width="1072" alt="qEqu" />
@@ -55,6 +55,44 @@ FrozenLake Environment:
 
 <figure>
  <img src="./Readme-img/frozenlake.png" width="1072" alt="frozenlake" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+
+
+Deep Q-Learning:
+
+<figure>
+ <img src="./Readme-img/deepq.png" width="1072" alt="deepqlearning" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+
+
+Deep Q-Learning Algorithm:
+
+<figure>
+ <img src="./Readme-img/alg-dql.png" width="1072" alt="deepqlearning" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+
+Deep Q-Learning Pseudo Code:
+
+<figure>
+ <img src="./Readme-img/deepqpseudocode.png" width="1072" alt="deepqlearning" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+
+CartPole Environment:
+
+<figure>
+ <img src="./Readme-img/cartpole.png" width="1072" alt="cartpole" />
  <figcaption>
  <p></p> 
  </figcaption>
